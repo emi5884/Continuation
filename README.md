@@ -1,3 +1,5 @@
+![continue-top](https://user-images.githubusercontent.com/98724087/153704237-79dbb7c6-cf55-4ba3-9303-1a6b657219fb.png)<br><br>
+
 ## 💬 概要
 ### エクササイズ記録アプリ<br><br>
 
