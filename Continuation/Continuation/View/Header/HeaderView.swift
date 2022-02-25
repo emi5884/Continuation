@@ -31,7 +31,18 @@ class HeaderView: UIView {
     
     public var days: [Record] = [] {
         didSet {
+            var tempDays: [Record] = []
+            days.forEach { day in
+                print("###days: \(day.timeStamp.dateValue())")
+            }
+            
+            for i in days.count - 6 ..< days.count{
+                tempDays.append(days[i])
+                print("###days2: \(days[i].timeStamp.dateValue())")
+            }
+            days = tempDays
             days.reverse()
+            
             configureSlides()
         }
     }

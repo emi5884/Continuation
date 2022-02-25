@@ -85,6 +85,7 @@ class AnimationView: HeaderView {
             headerView.fillSuperview()
             headerView.alpha = 0
         }
+        
         viewsInContainer = baseView.subviews.map { $0 as! HeaderViewCard }
         topView = viewsInContainer.last
 

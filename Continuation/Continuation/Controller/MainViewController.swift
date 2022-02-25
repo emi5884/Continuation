@@ -128,7 +128,7 @@ class MainViewController: UIViewController {
         
         view.addSubview(cameraButton)
         cameraButton.anchor(bottom: view.safeAreaLayoutGuide.bottomAnchor,
-                            paddingBottom: 20)
+                            paddingBottom: 15)
         cameraButton.setDimensions(height: 70, width: 70)
         cameraButton.centerX(inView: view)
         
