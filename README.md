@@ -20,7 +20,7 @@
 
 <br><br>
 
-## ⭐️ 機能
+## 🎮 機能
 ### カレンダー機能<br>
 ![calendar](https://user-images.githubusercontent.com/98724087/155554083-2cfc8ff1-8607-471e-a9e0-33ce895cfc2c.gif)<br><br>
 ### キャラクター機能<br>
